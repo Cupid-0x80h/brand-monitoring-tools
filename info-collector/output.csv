@@ -1,0 +1,51 @@
+Domain,Information
+google.com,"Domain Name: GOOGLE.COM
+Registry Domain ID: N/A
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09 15:39:04
+Creation Date: 1997-09-15 04:00:00
+Registrar Registration Expiration Date: 2028-09-14 04:00:00
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: N/A
+Registrar Abuse Contact Email: N/A
+Registrar Abuse Contact Phone: N/A
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited, serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited, serverTransferProhibited https://icann.org/epp#serverTransferProhibited, serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited, clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited), clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited), clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited), serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited), serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited), serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Name Server: NS1.GOOGLE.COM, NS2.GOOGLE.COM, NS3.GOOGLE.COM, NS4.GOOGLE.COM
+Server IP (A/AAAA): 142.250.194.78, 2404:6800:4002:820::200e
+Mail Server (MX): 10 smtp.google.com."
+yandex.com,"Domain Name: YANDEX.COM
+Registry Domain ID: N/A
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: ['http://nic.ru', 'http://www.nic.ru']
+Updated Date: 2024-11-01 10:57:15
+Creation Date: 1998-09-24 04:00:00
+Registrar Registration Expiration Date: 2026-09-23 04:00:00
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: N/A
+Registrar Abuse Contact Email: N/A
+Registrar Abuse Contact Phone: N/A
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: YANDEX, LLC.
+Registrant Organization: YANDEX, LLC.
+Name Server: NS1.YANDEX.NET, NS2.YANDEX.NET
+Server IP (A/AAAA): 77.88.44.55, 77.88.55.88, 5.255.255.77, 2a02:6b8:a::a
+Mail Server (MX): 10 mx.yandex.ru."
+facebook.com,"Domain Name: FACEBOOK.COM
+Registry Domain ID: N/A
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: ['http://www.registrarsafe.com', 'https://www.registrarsafe.com']
+Updated Date: 2025-04-23 19:08:37
+Creation Date: 1997-03-29 05:00:00
+Registrar Registration Expiration Date: 2034-03-30 04:00:00
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: N/A
+Registrar Abuse Contact Email: N/A
+Registrar Abuse Contact Phone: N/A
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited, clientTransferProhibited https://icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited, serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited, serverTransferProhibited https://icann.org/epp#serverTransferProhibited, serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited, clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited, clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited, clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited, serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited, serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited, serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registrant Name: Domain Admin
+Registrant Organization: Meta Platforms, Inc.
+Name Server: A.NS.FACEBOOK.COM, B.NS.FACEBOOK.COM, C.NS.FACEBOOK.COM, D.NS.FACEBOOK.COM
+Server IP (A/AAAA): 163.70.143.35, 2a03:2880:f188:84:face:b00c:0:25de
+Mail Server (MX): 10 smtpin.vvv.facebook.com."
