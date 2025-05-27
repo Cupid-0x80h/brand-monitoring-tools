@@ -83,4 +83,4 @@ This tool is for **informational and investigative purposes only**. It does **no
 
 ---
 
-**License**: *Due to NDA, licensing is restricted. Not intended for public distribution.*
+**License**: *This project is licensed under the GPL-3.0 License - see the LICENSE file for details.*
